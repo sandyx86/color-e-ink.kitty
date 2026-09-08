@@ -1,4 +1,4 @@
-# e-ink.kitty
+# color-e-ink.kitty
 
 Color E-ink theme for Kitty Terminal.
 
